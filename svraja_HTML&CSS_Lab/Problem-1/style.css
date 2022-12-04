@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://gifimage.net/wp-content/uploads/2020/03/pinterest-gif-1366x768-.gif");
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+
+}
+h2{
+    text-align: center;
+    color: black;
+}
+.login{
+    color: #c75757;
+    width: 300px;
+    padding: 50px;
+    /* position: absolute; */
+    font-size: 20px;
+    /* top: 20%;
+    right: 422px; */
+    
+margin: auto    ;
+    line-height: 20px;
+    border-radius: 10px;
+    background: #1087ed80;
+    text-align: left;
+    vertical-align: middle;
+    border: 1px solid white;
+}
+#login-form input {
+    padding: 2px;
+}
+button{
+    margin-top: 10px;
+    width:120px;
+    height: 50px;
+    padding: 5px;
+    vertical-align: middle;
+    margin-left: 22px;
+    background-color: #ce13e5;
+    color: aliceblue;
+}
+input{
+    height: 30px;
+    width: 98%;
+    padding-left: 10px;
+    border-radius: 5px;
+    margin: 12px;
+}
+input:focus{
+    outline: crimson;
+    color:white;
+    background-color: rgb(238, 195, 195);
+}
